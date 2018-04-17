@@ -1,0 +1,6 @@
+#!/bin/bash
+#string variable
+STRING="HelloWorld"
+#printing variable
+echo $STRING
+
