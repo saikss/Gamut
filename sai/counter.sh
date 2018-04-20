@@ -9,5 +9,7 @@ do
 	COUNTER=`expr $COUNTER + 1`
 	echo "Program has been running for $COUNTER seconds..."
 done
-#i hope this works
+#
+*** sleeping mode is for about one second onwards ****
+
 
