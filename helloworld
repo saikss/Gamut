@@ -3,4 +3,7 @@
 STRING="HelloWorld"
 #printing variable
 echo $STRING
+sai
+sarath
+jagan
 
